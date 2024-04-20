@@ -3,3 +3,11 @@ __pycache__
 .ipynb_checkpoints
 .vscode
 *.zip
+data
+!data.zip
+results
+!results.zip
+predictions
+!predictions.zip
+*.npy
+*.idea
